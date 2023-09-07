@@ -1,0 +1,15 @@
+C:\Users\jagruti.patil\Desktop\WebApi\Book-Store-WebApi\BookCart.Api\BookCart.Services\bin\Debug\net6.0\BookCart.Services.deps.json
+C:\Users\jagruti.patil\Desktop\WebApi\Book-Store-WebApi\BookCart.Api\BookCart.Services\bin\Debug\net6.0\BookCart.Services.dll
+C:\Users\jagruti.patil\Desktop\WebApi\Book-Store-WebApi\BookCart.Api\BookCart.Services\bin\Debug\net6.0\BookCart.Services.pdb
+C:\Users\jagruti.patil\Desktop\WebApi\Book-Store-WebApi\BookCart.Api\BookCart.Services\bin\Debug\net6.0\BookCart.Models.dll
+C:\Users\jagruti.patil\Desktop\WebApi\Book-Store-WebApi\BookCart.Api\BookCart.Services\bin\Debug\net6.0\BookCart.Models.pdb
+C:\Users\jagruti.patil\Desktop\WebApi\Book-Store-WebApi\BookCart.Api\BookCart.Services\obj\Debug\net6.0\BookCart.Services.csproj.AssemblyReference.cache
+C:\Users\jagruti.patil\Desktop\WebApi\Book-Store-WebApi\BookCart.Api\BookCart.Services\obj\Debug\net6.0\BookCart.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jagruti.patil\Desktop\WebApi\Book-Store-WebApi\BookCart.Api\BookCart.Services\obj\Debug\net6.0\BookCart.Services.AssemblyInfoInputs.cache
+C:\Users\jagruti.patil\Desktop\WebApi\Book-Store-WebApi\BookCart.Api\BookCart.Services\obj\Debug\net6.0\BookCart.Services.AssemblyInfo.cs
+C:\Users\jagruti.patil\Desktop\WebApi\Book-Store-WebApi\BookCart.Api\BookCart.Services\obj\Debug\net6.0\BookCart.Services.csproj.CoreCompileInputs.cache
+C:\Users\jagruti.patil\Desktop\WebApi\Book-Store-WebApi\BookCart.Api\BookCart.Services\obj\Debug\net6.0\BookCart.Services.csproj.CopyComplete
+C:\Users\jagruti.patil\Desktop\WebApi\Book-Store-WebApi\BookCart.Api\BookCart.Services\obj\Debug\net6.0\BookCart.Services.dll
+C:\Users\jagruti.patil\Desktop\WebApi\Book-Store-WebApi\BookCart.Api\BookCart.Services\obj\Debug\net6.0\refint\BookCart.Services.dll
+C:\Users\jagruti.patil\Desktop\WebApi\Book-Store-WebApi\BookCart.Api\BookCart.Services\obj\Debug\net6.0\BookCart.Services.pdb
+C:\Users\jagruti.patil\Desktop\WebApi\Book-Store-WebApi\BookCart.Api\BookCart.Services\obj\Debug\net6.0\ref\BookCart.Services.dll

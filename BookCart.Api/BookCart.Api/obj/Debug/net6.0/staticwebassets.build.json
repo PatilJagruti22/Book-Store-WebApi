@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yM/zMcabQNhkXUFVgXFS8zMpZGsylf+M1lqmNPIKqNY=",
+  "Source": "BookCart.Api",
+  "BasePath": "_content/BookCart.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

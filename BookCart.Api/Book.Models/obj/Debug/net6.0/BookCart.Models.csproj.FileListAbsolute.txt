@@ -1,0 +1,14 @@
+C:\Users\jagruti.patil\Desktop\WebApi\Book-Store-WebApi\BookCart.Api\Book.Models\bin\Debug\net6.0\BookCart.Models.deps.json
+C:\Users\jagruti.patil\Desktop\WebApi\Book-Store-WebApi\BookCart.Api\Book.Models\bin\Debug\net6.0\BookCart.Models.runtimeconfig.json
+C:\Users\jagruti.patil\Desktop\WebApi\Book-Store-WebApi\BookCart.Api\Book.Models\bin\Debug\net6.0\BookCart.Models.dll
+C:\Users\jagruti.patil\Desktop\WebApi\Book-Store-WebApi\BookCart.Api\Book.Models\bin\Debug\net6.0\BookCart.Models.pdb
+C:\Users\jagruti.patil\Desktop\WebApi\Book-Store-WebApi\BookCart.Api\Book.Models\obj\Debug\net6.0\BookCart.Models.csproj.AssemblyReference.cache
+C:\Users\jagruti.patil\Desktop\WebApi\Book-Store-WebApi\BookCart.Api\Book.Models\obj\Debug\net6.0\BookCart.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jagruti.patil\Desktop\WebApi\Book-Store-WebApi\BookCart.Api\Book.Models\obj\Debug\net6.0\BookCart.Models.AssemblyInfoInputs.cache
+C:\Users\jagruti.patil\Desktop\WebApi\Book-Store-WebApi\BookCart.Api\Book.Models\obj\Debug\net6.0\BookCart.Models.AssemblyInfo.cs
+C:\Users\jagruti.patil\Desktop\WebApi\Book-Store-WebApi\BookCart.Api\Book.Models\obj\Debug\net6.0\BookCart.Models.csproj.CoreCompileInputs.cache
+C:\Users\jagruti.patil\Desktop\WebApi\Book-Store-WebApi\BookCart.Api\Book.Models\obj\Debug\net6.0\BookCart.Models.dll
+C:\Users\jagruti.patil\Desktop\WebApi\Book-Store-WebApi\BookCart.Api\Book.Models\obj\Debug\net6.0\refint\BookCart.Models.dll
+C:\Users\jagruti.patil\Desktop\WebApi\Book-Store-WebApi\BookCart.Api\Book.Models\obj\Debug\net6.0\BookCart.Models.pdb
+C:\Users\jagruti.patil\Desktop\WebApi\Book-Store-WebApi\BookCart.Api\Book.Models\obj\Debug\net6.0\BookCart.Models.genruntimeconfig.cache
+C:\Users\jagruti.patil\Desktop\WebApi\Book-Store-WebApi\BookCart.Api\Book.Models\obj\Debug\net6.0\ref\BookCart.Models.dll
